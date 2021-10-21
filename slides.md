@@ -1,7 +1,7 @@
 ---
 theme: default
 title: 'Template ejemplo'
-titleTemplate: 'Presentación - Ejemplo'
+titleTemplate: 'Presentación - KeyFrames'
 background: https://source.unsplash.com/1920x1080/?code
 class: 'text-center'
 highlighter: shiki
@@ -9,7 +9,7 @@ info: |
   ## Template ejemplo
 ---
 
-# Slide uno
+# Taro Cantu
 
 ---
 
