@@ -1,1 +1,1 @@
-# Template para crear slides de código
+# Ejemplo de presentacion
